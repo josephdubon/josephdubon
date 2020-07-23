@@ -1,16 +1,20 @@
-### Hi there 👋
+### Hi there :ant:
+
+I'm Joseph Dubon(he/him), a software developer, hacker, and photographer. I am passionate about open source, software engineering education, design, and 35mm photography/the darkroom.
+
+I am currently furthering my education as a Software Engineering student at Kenzie Academy.
 
 <!--
 **josephdubon/josephdubon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+
+Here are some facts about me:
+
+- 🔭 I’m currently working on JavaScript
+- 🌱 I’m currently learning NodeJS, REACT
+- :violin: I’m looking to collaborate on open source projects
+- 💬 Ask me about code, movies, books, photography, art, and philosophy.
+- 📫 How to reach me: josephdubon@pm.me
+- :alien: Pronouns: He/Him
+- ⚡ Fun fact: Wrote my first line of code at 10 years old (in 1995!)
+

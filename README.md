@@ -1,9 +1,16 @@
-### Hi there :ant:
+# Que tal - Whats up
 
-I'm Joseph Dubon(he/him), a software developer, hacker, and photographer. 
-I am passionate about open source, software engineering education, design, and 35mm photography/the darkroom.
+:milky_way: :computer: :keyboard: :camera:
 
-I am currently furthering my education as a Software Engineering student at Kenzie Academy.
+My name is Joseph Dubon (he/him) -I am: - a software developer - a hacker of life - a maker of programs and awesome technologies - a breaker of programs and awesome technologies - a photographer using digital and film mediums - currently living/coding/growing in :us:
+
+I am passionate about open source, software engineering education, design, photography, and of course improving the human condition with the small bits of wisdom life and education have granted me.
+
+I am a life long student of:
+
+- :computer: Computer Science
+- :cloud: Philosophy
+- :guitar: Music
 
 <!--
 **josephdubon/josephdubon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -11,12 +18,29 @@ I am currently furthering my education as a Software Engineering student at Kenz
 
 Here are some facts about me:
 
-- 🔭 I’m currently working on contributing more to open source
-- 🌱 I’m currently learning NodeJS, REACT
-- :violin: I’m looking to collaborate on open source projects
-- 💬 Ask me about code, movies, books, photography, art, and philosophy.
-- 📫 How to reach me: josephdubon@pm.me
-- :alien: Pronouns: He/Him
-- ⚡ Fun fact: Wrote my first line of code at 10 years old (in 1995!)
+- 🔭 I’m currently working on
+
+  - education
+  - contributing more to open source
+
+- :snake: I’m currently am obsessed with
+
+  - the Python programming lanuage
+
+- 💬 Ask me about
+
+  - code
+  - movies
+  - books
+  - photography
+  - art
+  - philosophy
+
+- :zap: How to reach me:
+  - josephdubon@pm.me
+- :alien: Pronouns:
+  - He/Him
+- :trollface: Fun fact:
+  - Wrote my first line of code at 10 years old (in 1995!)
 
 ![Octocat style!](octocat.png)

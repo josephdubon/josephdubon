@@ -1,6 +1,6 @@
 # Que tal - Whats up
 
-:milky_way: :computer: :keyboard: :camera:
+:octocat:
 
 My name is Joseph Dubon (he/him) -I am:
 

@@ -4,14 +4,14 @@
 
 My name is Joseph Dubon (he/him) -I am:
 
-- a software developer
-- a hacker of life
+- a software engineer
+- a hacker
 - a maker of programs and awesome technologies
 - a breaker of programs and awesome technologies
 - a photographer using digital and film mediums
 - currently living/coding/growing in :us:
 
-I am passionate about open source, software engineering education, design, photography, and of course improving the human condition with the small bits of wisdom life and education have granted me.
+I am passionate about open source, software, pwa's, design, photography, and of course improving the human condition with the small bits of wisdom life and education have granted me.
 
 I am a life long student of:
 
@@ -25,14 +25,15 @@ I am a life long student of:
 
 Here are some facts about me:
 
-- 🔭 I’m currently working on
+- 🔭 I’m currently working with
 
-  - education
-  - contributing more to open source
+  - JavaScript
+  - ReactJS/GatsbyJS
+  - Python/Django
 
 - :snake: I’m currently am obsessed with
 
-  - the Python programming lanuage
+  - Building apps and software for startups
 
 - 💬 Ask me about
 
@@ -48,6 +49,6 @@ Here are some facts about me:
 - :alien: Pronouns:
   - He/Him
 - :trollface: Fun fact:
-  - Wrote my first line of code at 10 years old (in 1995!)
+  - Started coding before I was in middle school.
 
 ![Octocat style!](octocat.png)

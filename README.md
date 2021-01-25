@@ -49,6 +49,7 @@ Here are some facts about me:
 - :alien: Pronouns:
   - He/Him
 - :trollface: Fun fact:
-  - Started coding before I was in middle school.
+  - Started coding when I was a kid in the 90's using netscape navigator and a primitive text-editor.
+  - Originally self-taught by studying source code I could find on the internet and on websites I would visit.
 
 ![Octocat style!](octocat.png)

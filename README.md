@@ -28,7 +28,8 @@ Here are some facts about me:
 - 🔭 I’m currently working with
 
   - JavaScript
-  - ReactJS/GatsbyJS
+  - ReactJS
+  - GatsbyJS
   - Python/Django
 
 - :snake: I’m currently am obsessed with

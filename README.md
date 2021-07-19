@@ -16,13 +16,8 @@ I am a life long student of:
 
 - 💬 Ask me about
 
-  - python
-  - django
-  - react
-  - javascript
-  - frontend
-  - backend
-
+  - python/django
+  
 - :zap: How to reach me:
   - josephdubon@pm.me
 

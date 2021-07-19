@@ -2,20 +2,11 @@
 
 :octocat:
 
-My name is Joseph Dubon (he/him) -I am:
-
-- a software engineer
-- a hacker
-- a maker of programs and awesome technologies
-- a breaker of programs and awesome technologies
-- a photographer using digital and film mediums
-- currently living/coding/growing in :us:
-
-I am passionate about open source, software, pwa's, design, photography, and of course improving the human condition with the small bits of wisdom life and education have granted me.
+My name is Joseph Dubon
 
 I am a life long student of:
 
-- :computer: Computer Science
+- :computer: Computers and Programming Stuff
 - :cloud: Philosophy
 - :guitar: Music
 
@@ -23,34 +14,16 @@ I am a life long student of:
 **josephdubon/josephdubon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-Here are some facts about me:
-
-- 🔭 I’m currently working with
-
-  - JavaScript
-    - ReactJS
-  - Python
-    - Django
-
-- :snake: I’m currently am obsessed with
-
-  - Building apps and software for startups
-
 - 💬 Ask me about
 
-  - code
-  - movies
-  - books
-  - photography
-  - art
-  - philosophy
+  - python
+  - django
+  - react
+  - javascript
+  - frontend
+  - backend
 
 - :zap: How to reach me:
   - josephdubon@pm.me
-- :alien: Pronouns:
-  - He/Him
-- :trollface: Fun fact:
-  - Started coding when I was a kid in the 90's using netscape navigator and a primitive text-editor.
-  - Originally self-taught by studying source code I could find on the internet and on websites I would visit.
 
 ![Octocat style!](octocat.png)

@@ -21,4 +21,3 @@ I am a life long student of:
 - :zap: How to reach me:
   - josephdubon@pm.me
 
-![Octocat style!](octocat.png)

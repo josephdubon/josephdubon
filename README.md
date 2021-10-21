@@ -1,11 +1,5 @@
 # Joseph Dubon - Full Stack Engineer
 
-:octocat:
+## Hello! 
 
-- 💬 Ask me about
-
-  - python/django
-  
-- :zap: How to reach me:
-  - josephdubon@pm.me
-
+### I have migrated away from GitHub to non-Microsoft alternatives. #opensource_forever

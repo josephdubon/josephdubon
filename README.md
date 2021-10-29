@@ -1,5 +1,5 @@
-# Joseph Dubon - Full Stack Engineer
+# Joseph Dubon - Full Stack Developer/Engineer
 
 ## Hello! 
 
-### I have migrated away from GitHub to non-Microsoft alternatives. #opensource_forever
+### I am a keyboard smashing, electronics hacker, coder person. 

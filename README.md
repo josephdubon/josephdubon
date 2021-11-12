@@ -1,5 +1,5 @@
 # Joseph Dubon - Full Stack Developer/Engineer
 
-## Hello! 
+## ¡Hola! Hello! 
 
-### I am a keyboard smashing, electronics hacker, coder person. 
+### I am a full stack software engineer and I work mostly with Python, Django, and JS.

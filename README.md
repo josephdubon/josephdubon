@@ -7,6 +7,6 @@
 ## Current Projects
 I am currently building out v1 of a new education platform!
 
-[americoders.org](https://americoders.org)
+[americoders.org](https://americoders.org) (in development)
 
 [josephdubon.com](https://www.josephdubon.com)

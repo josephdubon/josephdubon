@@ -1,6 +1,6 @@
 # Joseph Dubon - Full Stack Developer/Engineer
 
-## ¡Hola! Hello! 
+## Hello beautiful and amazing people of the internet!
 
 ### I am a full stack software engineer and I work mostly with Django, React, and Emacs.
 

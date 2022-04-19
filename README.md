@@ -1,4 +1,4 @@
-# Joseph Dubon - Full Stack Developer/Engineer
+# Joseph Dubon - Full Stack Developer
 
 ## Hello beautiful and amazing people of the internet!
 

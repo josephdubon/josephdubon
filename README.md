@@ -5,7 +5,7 @@
 ### I am a full stack software developer.
 
 ## Current Projects
-I am currently building out v1 of a new education platform and learning web3!
+I am currently building out v1 of a new education platform and diving into web3!
 
 [americoders.org](https://americoders.org) (in development)
 

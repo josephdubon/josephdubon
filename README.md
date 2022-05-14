@@ -1,4 +1,4 @@
-# Joseph Dubon - Software Developer
+# Joseph Dubon - Software Engineer
 
 ## Hello beautiful and amazing people of the internet
 
